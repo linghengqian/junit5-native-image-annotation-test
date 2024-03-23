@@ -1,6 +1,6 @@
 # junit5-native-image-annotation-test
 
-- For https://github.com/apache/shardingsphere/pull/30031 .
+- For https://github.com/apache/shardingsphere/pull/30031 and https://github.com/junit-team/junit5/issues/3745 .
 
 - Execute the following command on the Ubuntu 22.04.3 instance with `SDKMAN!` installed.
 
